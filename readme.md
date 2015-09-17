@@ -19,3 +19,8 @@ that are available in the `go-tour` package soure (should be installed in
 - [Writing go in vim](https://robots.thoughtbot.com/writing-go-in-vim)
 - [Writing go code](https://golang.org/doc/code.html)
 - [Unit testing in Golang](http://whizdumb.me/2015/01/21/unit-testing-in-golang/)
+- [Code review comments](https://github.com/golang/go/wiki/CodeReviewComments)
+
+## Nice libraries
+
+- [Testify](https://github.com/stretchr/testify)
