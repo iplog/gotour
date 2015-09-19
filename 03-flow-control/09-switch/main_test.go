@@ -1,4 +1,3 @@
-// Quick test to check that the result we get are in the correct delta
 package main
 
 import "testing"
