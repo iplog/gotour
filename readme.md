@@ -25,3 +25,17 @@ that are available in the `go-tour` package soure (should be installed in
 ## Nice libraries
 
 - [Testify](https://github.com/stretchr/testify)
+
+## Working off line
+
+- gotour:
+
+```bash
+gotour
+```
+
+- Documentation:
+
+```bash
+godoc -http:=<port>
+```
